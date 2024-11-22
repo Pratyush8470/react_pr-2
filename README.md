@@ -32,7 +32,7 @@ git clone https://github.com/Pratyush8470/react_pr-2.git
 
 ## Navigate to the project directory
 ```bash
-cd password-genera tor
+cd pswd-gnrtr
 ```
 
 ## Install dependencies
